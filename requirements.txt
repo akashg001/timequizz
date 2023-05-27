@@ -19,7 +19,7 @@ ordered-set==4.1.0
 packaging==23.1
 protobuf==3.20.3
 Pygments==2.15.1
-python-dotenv==1.0.0
+python-dotenv==0.21.1
 pytz==2023.3
 rich==13.3.5
 six==1.16.0
